@@ -4,9 +4,14 @@ A very simple integer predictor using the Linear Regression model from sklearn /
 
 # Installation
 
-Download & install Python 3. After that:
+Download & install [Python 3.x](https://www.python.org/download/releases/3.0/). After that:
+```
+git clone https://github.com/martinkaptein/integer-predictor.git
 
-`sudo pip3 install -r requirements.txt`
+cd integer-predictor/
+
+sudo pip3 install -r requirements.txt
+``` 
 
 # Usage
 
